@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Miguel David Vásquez Leyton
 
-🎓 **Ingeniero de Sistemas (UNIMINUTO)**  
+🎓 **Ingeniero de Sistemas (UNIMINUTO) Con formacion integral**  
 💻 Desarrollador **Full-Stack** con experiencia en **React, Django, Flask, Java, Python, PHP y R**  
 🗄️ Manejo de **MySQL, PostgreSQL, SQL Server, MongoDB y Firebase**  
 🚀 Apasionado por la **IA (TensorFlow)** y el **análisis de datos (Power BI, Excel)**  
